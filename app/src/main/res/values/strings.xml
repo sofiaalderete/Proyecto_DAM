@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Proyecto_DAM</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="texto_inicio">Bienvenido a Reward.Me</string>
+    <string name="boton_inicio_1">Registro</string>
+    <string name="boton_inicio_2">Iniciar Sesion</string>
+    <string name="campo_login_email">Email</string>
+    <string name="campo_login_password">Contraseña</string>
+    <string name="boton_login_entrar">Entrar</string>
+    <string name="campo_registro_nombre">Nombre</string>
+    <string name="campo_registro_email">Email</string>
+    <string name="campo_registro_password">Contraseña</string>
+    <string name="spinner_registro_rol">Seleccione su rol</string>
+    <string name="boton_registro_intro">Registrarse</string>
+
+
+</resources>
